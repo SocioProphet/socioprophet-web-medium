@@ -1,0 +1,12 @@
+Topics to Cover (not in any particular order)
+
+1. Using a Makefile and Bash Scripts with Your React App
+2. React App Structure from Scratch (No create-react-app)
+3. How to Use IBM’s Carbon Design System (React) to Create a Quick UI
+4. Setting up TypeScript with React and SCSS (a CSS Superset)
+5. Stop Using Create-React-App — Configuring Webpack and Babel
+6. Dockerizing Your Client and Server & Using NGINX to Serve the Client
+7. Creating a CI/CD Pipeline with GitLab & GKE (Google Kubernetes Engine)
+8. Google Cloud Platform (GCP) App Verification for API Scopes
+9. Create a Scrolling Ticker with RSS Feed (Hacker News)
+10. Using Netlify to Create a Staging Environment for UI/UX Team Review
